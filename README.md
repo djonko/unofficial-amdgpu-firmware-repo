@@ -3,7 +3,7 @@
 This repository is an insurance policy in case AMD is late in uploading the latest firmware to the [kernel/git/firmware/linux-firmware.git](https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/).  
 Although the firmware is collected from ROCm (rock-dkms) and [Radeon Software for Linux](https://www.amd.com/en/support) other than [kernel/git/firmware/linux-firmware.git](https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/), we cannot guarantee that it works properly.  
 
-## LICENCE
+## LICENSE
 
 Copyright (C) 2020  Advanced Micro Devices, Inc. All rights reserved.
 
