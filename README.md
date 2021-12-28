@@ -1,7 +1,7 @@
 ## unofficial-amdgpu-firmware-repo
 
 This repository is an insurance policy in case AMD is late in uploading the latest firmware to the [kernel/git/firmware/linux-firmware.git](https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/).  
-Although the firmware is collected from ROCm (rock-dkms) and [Radeon Software for Linux](https://www.amd.com/en/support) other than [kernel/git/firmware/linux-firmware.git](https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/), I cannot guarantee that it works properly.  
+Although the firmware is collected from ROCm (rock-dkms) and [Radeon Software for Linux](http://repo.radeon.com/amdgpu/) (amdgpu-dkms-firmware) other than [kernel/git/firmware/linux-firmware.git](https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/), I cannot guarantee that it works properly.  
 
 ## LICENSE
 
