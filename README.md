@@ -3,7 +3,7 @@ This repository is an insurance policy in case AMD is late in uploading the late
 Although the firmware is collected from ROCm (rock-dkms) and [Radeon Software for Linux](http://repo.radeon.com/amdgpu/) (amdgpu-dkms-firmware) other than [kernel/git/firmware/linux-firmware.git](https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/), I cannot guarantee that it works properly.  
 
 ## navi10_mes.bin issue
-Please read <navi10_mes_issue.md>, #1, #2.
+Please read [navi10_mes_issue.md](./navi10_mes_issue.md) , [#1](https://github.com/Umio-Yasuno/unofficial-amdgpu-firmware-repo/issues/1), [#2](https://github.com/Umio-Yasuno/unofficial-amdgpu-firmware-repo/issues/2).
 
 ## LICENSE
 
