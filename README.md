@@ -1,8 +1,4 @@
-## unofficial-amdgpu-firmware-repo
-This repository is an insurance policy in case AMD is late in uploading the latest firmware to the [kernel/git/firmware/linux-firmware.git](https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/).  
-Although the firmware is collected from ROCm (rock-dkms) and [Radeon Software for Linux](http://repo.radeon.com/amdgpu/) (amdgpu-dkms-firmware) other than [kernel/git/firmware/linux-firmware.git](https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/), I cannot guarantee that it works properly.  
-
-## Archive this repository
+# Archive this repository
 Alex Deucher (AMD, Software developer) is currently providing solid support in firmware for AMDGPUs.  
 GC 10.3.7, DCN 3.1.6, PSP 13.0.8, SDMA 5.2.7, their firmware was released earlier than in [linux-firmware.git](https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git) the Radeon Software for Linux package (repo.amdgpu.com),  
 So, I think that it is best to use the official repository ([linux-firmware.git](https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git)). There is not now need to use this repository.  
